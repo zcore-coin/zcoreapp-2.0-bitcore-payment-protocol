@@ -45,7 +45,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-payment-protocol.git"
+    "url": "https://github.com/zcore-coin/zcoreapp-2.0-bitcore-payment-protocol"
   },
   "browser": "lib/browser.js",
   "dependencies": {
@@ -57,7 +57,7 @@
     "protobufjs": "=5.0.3"
   },
   "peerDependencies": {
-    "bitcore-lib": "=0.16.0"
+    "bitcore-lib": "https://github.com/zcore-coin/zcoreapp-2.0-bitcore-lib"
   },
   "devDependencies": {
     "bitcore-build": "https://github.com/bitpay/bitcore-build.git#1023e8a99cd42b9241ccafe8e34c52f308c10284",
